@@ -1,6 +1,6 @@
 # Shot Noise Records
 
+Electronic music label on the BitTorrent network.
 
 email: shotnoise@protonmail.com
-
-pubkey: F18DE81760E1AF2193047404DB9C3AA85C54EA72
+pubkey: 0x5C54EA72
